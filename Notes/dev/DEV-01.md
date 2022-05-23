@@ -129,3 +129,27 @@
 
 ![](../images/DEV-01/DEV-01-E12.png)
 
+## Topic F
+![](../images/DEV-01/DEV-01-F1.png)
+
+![](../images/DEV-01/DEV-01-F2.png)
+
+![](../images/DEV-01/DEV-01-F3.png)
+
+![](../images/DEV-01/DEV-01-F4.png)
+
+![](../images/DEV-01/DEV-01-F5.png)
+
+![](../images/DEV-01/DEV-01-F6.png)
+
+![](../images/DEV-01/DEV-01-F7.png)
+
+![](../images/DEV-01/DEV-01-F8.png)
+
+![](../images/DEV-01/DEV-01-F9.png)
+
+![](../images/DEV-01/DEV-01-F10.png)
+
+![](../images/DEV-01/DEV-01-F11.png)
+
+![](../images/DEV-01/DEV-01-F12.png)
