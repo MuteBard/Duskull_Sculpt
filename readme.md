@@ -1,3 +1,3 @@
 # Creating a Duskull animation
 
-[![](frame.png)](https://www.youtube.com/watch?v=zYbzm2oqW2A)
+[![](frame.png)](https://gifs.com/gif/look-into-my-eye-gpV263)
